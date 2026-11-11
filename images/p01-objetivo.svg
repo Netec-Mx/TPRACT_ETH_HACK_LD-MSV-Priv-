@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" font-family="Segoe UI, Arial, sans-serif">
+<rect width="760" height="230" fill="#ffffff"/>
+<text x="20" y="34" font-size="18" font-weight="700" fill="#0b2e59">Práctica 1. OSINT con Google Dorks</text>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#5b6b7f"/></marker></defs>
+<rect x="20.0" y="70" width="108.3" height="110" rx="10" fill="#e8f0fb" stroke="#1f4e78" stroke-width="1.5"/>
+<text x="30.0" y="92" font-size="12" font-weight="700" fill="#1f4e78">Tarea 1</text>
+<text x="30.0" y="112" font-size="12" fill="#0b2e59">Marco ético y</text>
+<text x="30.0" y="127" font-size="12" fill="#0b2e59">operadores</text>
+<text x="30.0" y="172" font-size="12" font-weight="700" fill="#5b6b7f">5 min</text>
+<line x1="129.3" y1="125" x2="140.3" y2="125" stroke="#5b6b7f" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="142.3" y="70" width="108.3" height="110" rx="10" fill="#e8f0fb" stroke="#1f4e78" stroke-width="1.5"/>
+<text x="152.3" y="92" font-size="12" font-weight="700" fill="#1f4e78">Tarea 2</text>
+<text x="152.3" y="112" font-size="12" fill="#0b2e59">Operadores</text>
+<text x="152.3" y="127" font-size="12" fill="#0b2e59">básicos</text>
+<text x="152.3" y="172" font-size="12" font-weight="700" fill="#5b6b7f">10 min</text>
+<line x1="251.7" y1="125" x2="262.7" y2="125" stroke="#5b6b7f" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="264.7" y="70" width="108.3" height="110" rx="10" fill="#e8f0fb" stroke="#1f4e78" stroke-width="1.5"/>
+<text x="274.7" y="92" font-size="12" font-weight="700" fill="#1f4e78">Tarea 3</text>
+<text x="274.7" y="112" font-size="12" fill="#0b2e59">Google Hacking</text>
+<text x="274.7" y="127" font-size="12" fill="#0b2e59">Database</text>
+<text x="274.7" y="172" font-size="12" font-weight="700" fill="#5b6b7f">5 min</text>
+<line x1="374.0" y1="125" x2="385.0" y2="125" stroke="#5b6b7f" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="387.0" y="70" width="108.3" height="110" rx="10" fill="#e8f0fb" stroke="#1f4e78" stroke-width="1.5"/>
+<text x="397.0" y="92" font-size="12" font-weight="700" fill="#1f4e78">Tarea 4</text>
+<text x="397.0" y="112" font-size="12" fill="#0b2e59">Dorks en sitios</text>
+<text x="397.0" y="127" font-size="12" fill="#0b2e59">de prueba</text>
+<text x="397.0" y="172" font-size="12" font-weight="700" fill="#5b6b7f">12 min</text>
+<line x1="496.3" y1="125" x2="507.3" y2="125" stroke="#5b6b7f" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="509.3" y="70" width="108.3" height="110" rx="10" fill="#e8f0fb" stroke="#1f4e78" stroke-width="1.5"/>
+<text x="519.3" y="92" font-size="12" font-weight="700" fill="#1f4e78">Tarea 5</text>
+<text x="519.3" y="112" font-size="12" fill="#0b2e59">Riesgos y</text>
+<text x="519.3" y="127" font-size="12" fill="#0b2e59">mitigación</text>
+<text x="519.3" y="172" font-size="12" font-weight="700" fill="#5b6b7f">8 min</text>
+<line x1="618.7" y1="125" x2="629.7" y2="125" stroke="#5b6b7f" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="631.7" y="70" width="108.3" height="110" rx="10" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="641.7" y="92" font-size="12" font-weight="700" fill="#2e7d32">Entregable</text>
+<text x="641.7" y="112" font-size="12" fill="#1b5e20">Matriz de dorks</text>
+<text x="641.7" y="127" font-size="12" fill="#1b5e20">y riesgos</text>
+<text x="20" y="215" font-size="12" fill="#5b6b7f">Duración total: 40 min</text>
+</svg>
