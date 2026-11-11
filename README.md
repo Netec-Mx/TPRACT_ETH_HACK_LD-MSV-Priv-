@@ -1,4 +1,6 @@
-<img src="images/neteclogo.png" alt="logo" width="300"/>
+<a href="https://netec.com">
+  <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300"/>
+</a>
 
 # Introducción al Ethical Hacking
 
@@ -10,7 +12,6 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Introducc
 
 Taller práctico introductorio enfocado en técnicas de reconocimiento y recopilación de información utilizadas en Ethical Hacking. Mediante Google Dorking, Shodan y Nmap, los participantes aprenderán a localizar información pública, identificar dispositivos y servicios expuestos en Internet y realizar escaneos básicos de red para reconocer posibles riesgos de seguridad.
 
-**Duración:** 2 horas (120 minutos), 100% práctica.
 
 ## Objetivos del curso
 
@@ -44,48 +45,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
   - **Descripción**: descubrimiento de hosts, escaneo de puertos y detección de servicios con comandos de Nmap en una red de laboratorio simulada con Google AI Studio.
   - ⏱️ **Duración estimada**: 40 min.
-
-### Distribución del tiempo
-
-| Práctica | Herramienta | Duración |
-|---|---|---|
-| 1. OSINT con Google Dorks | Google Search | 40 min |
-| 2. Búsqueda de dispositivos con Shodan | Shodan | 40 min |
-| 3. Escaneo de red con Nmap | Nmap (simulador en Google AI Studio) | 40 min |
-| **Total** | | **120 min** |
-
-## Instrucciones generales del laboratorio
-
-1. Antes del taller, preparar el equipo y las cuentas con la [Guía de configuración](Setup_Guide.md).
-2. Cada práctica está en su carpeta `CapituloNN` con su `README.md` y la carpeta `recursos`. Para descargar un archivo, abrirlo y seleccionar **Download raw file**.
-3. Guardar los entregables en `Documentos\Taller_Ethical_Hacking\PracticaNN\` con las iniciales del participante en el nombre.
-4. **Ética y legalidad:** todas las actividades se limitan a reconocimiento pasivo sobre información pública y a un escaneo simulado en una red ficticia. No acceder a sistemas, servicios o archivos encontrados, no probar credenciales y no escanear redes reales sin autorización escrita del propietario.
-5. Las prácticas son progresivas: van del reconocimiento pasivo (Google, Shodan) al reconocimiento activo (Nmap).
-
-## Estructura del repositorio
-
-```text
-.
-├── README.md            Página principal (este archivo)
-├── Setup_Guide.md       Guía de configuración del entorno
-├── images/              Logotipo y diagramas de las prácticas
-├── Capitulo01/          Práctica 1: README.md y recursos/
-├── Capitulo02/          Práctica 2
-└── Capitulo03/          Práctica 3
-```
-
-## Recursos adicionales
-
-- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-- [Shodan: Search Query Fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)
-- [Nmap Reference Guide](https://nmap.org/book/man.html)
-
-## Enlaces de referencia
-
-- [Google: refinar búsquedas web](https://support.google.com/websearch/answer/2466433)
-- [Google: quitar información de los resultados de búsqueda](https://developers.google.com/search/docs/crawling-indexing/remove-information)
-- [Nmap: host de pruebas scanme.nmap.org](http://scanme.nmap.org/)
-- [National Vulnerability Database](https://nvd.nist.gov/)
 
 ---
 
