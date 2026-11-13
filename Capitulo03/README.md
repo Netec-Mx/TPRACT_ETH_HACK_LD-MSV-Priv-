@@ -58,26 +58,40 @@ Al finalizar la práctica, el participante será capaz de:
 
 ---
 
-## Tarea 2. Configurar el simulador (5 min)
+## Tarea 2. Ingresar Simulador (5 min)
 
-**Objetivo:** Tener el simulador de Nmap funcionando en Google AI Studio.
+**Objetivo:** Ingresar al simulador proporcionado por el instructor. 
 
 **Por qué:** Las instrucciones de sistema definen la red autorizada y hacen que el simulador responda siempre igual.
 
-**Paso 1.** Abrir [aistudio.google.com](https://aistudio.google.com/), iniciar sesión con su cuenta de Google y abrir un chat nuevo (**Chat** o **Create new prompt**).
+**Paso 1.** Abrir el Link https://cyberops-hyper-realistic-ethical-hacking-lab-1.ai.studio y logearse conn  cuenta de google .
 
-**Paso 2.** Abrir **System instructions** y pegar el contenido completo de `Simulador_Nmap_Instrucciones.txt`.
+<img width="1078" height="571" alt="image" src="https://github.com/user-attachments/assets/54c2d2a5-7ef1-4614-be85-b156fc765473" />
 
-**Paso 3.** En el panel de configuración, bajar la **Temperature** a `0` o al valor más bajo disponible, para que las respuestas sean consistentes.
 
-**Paso 4.** Enviar `nmap --version`.
+**Paso 2.** Esperar a que tu instructor autorice tu ingreso al sistema o simulador.
 
-- **Qué verás:** un bloque con la versión de Nmap y una línea "Nota del instructor".
-- **Si no ocurre así:** revisar que las instrucciones estén en **System instructions** y no en el mensaje.
+<img width="988" height="538" alt="Cap 4 nmap 1" src="https://github.com/user-attachments/assets/5ccc5e0e-b16a-45ed-8270-97b46793e8af" />
+
+
+**Paso 3.** Da clic en el boto Pestaña COMMAND_CENTER que se encuentra en la en la parte izquierda de tu simulador.
+
+<img width="1810" height="496" alt="image" src="https://github.com/user-attachments/assets/156c1a68-cb44-458b-afc6-46f9dcd2fff4" />
+
+
+**Paso 4.** da clic en Operación LS MSV.
+
+<img width="1810" height="412" alt="image" src="https://github.com/user-attachments/assets/b71b265d-fd2d-4173-ba6e-5654604a59ab" />
+
+
+- **Qué verás:** Un entorno de prueba dentro de un ambiente seguro para que realices los  escaneos con nmap".
 
 **Al terminar esta tarea debes tener:**
 
 - ✔ El simulador respondiendo como Nmap.
+
+  <img width="1592" height="871" alt="image" src="https://github.com/user-attachments/assets/94b309e9-0067-4d08-960f-ec666a844a72" />
+
 
 ---
 
